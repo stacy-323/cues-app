@@ -1,2 +1,2 @@
-# decision-app
+# cues-app
 vibe coding final project
