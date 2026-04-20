@@ -131,7 +131,3 @@ src/
 - Maximum 100 decisions kept in history
 - Reroll limit: 3 (or 1 if fewer than 3 options remain)
 - All decisions must have at least 2 options to proceed
-
-## Support
-
-For issues or feedback, check the project files or review the PRD in the `Vibe Coding - Final Project PRD copy.pdf` file.
